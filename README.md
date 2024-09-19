@@ -19,7 +19,7 @@
 
 *In alphabetical order.*
 
-*If you'd like to see more info here, [DM me](#liledix4githubio) or [create an issue](https://github.com/liledix4/liledix4/issues).*
+*If you'd like to see more info here, [DM me](#liledix4githubio) or [create an issue](https://github.com/liledix4/liledix4/issues/new).*
 
 - **AI**
     - I have a complicated relationship with it. I understand the position "AI is theft" and I'm on the same side. But the damage is done.
