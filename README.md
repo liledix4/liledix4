@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![](https://github.com/user-attachments/assets/73b1e05d-4b4a-418d-a8ed-c727f02ec5be)
+![My banner. Profile picture by J. Rivers. Background by Gordon Johnson from Pixabay.com. Edited by me.](https://github.com/user-attachments/assets/970e2374-7988-487c-a5d6-4da66ec7e0f8)
 
 *<sup>My banner. Profile picture by [J. Rivers](https://www.youtube.com/@J.Rivers). Background by [Gordon Johnson from Pixabay.com](https://pixabay.com/vectors/colorful-prismatic-chromatic-1312779/). Edited by me.</sup>*
 </div>
