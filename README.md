@@ -33,6 +33,8 @@
     - Is it a disease? More like a brain defect that can't be fixed. It'll stay with me for the rest of my life.
 - **Emojis**
     - Love them!
+- **LGBT+**
+    - [Straight ally](https://en.wikipedia.org/wiki/Straight_ally).
 - **Nationality**
     - Doesn't matter. I'm a [cosmopolitan](https://en.wikipedia.org/wiki/Cosmopolitanism).
 - **Plum jam**
