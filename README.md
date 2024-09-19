@@ -16,7 +16,7 @@
 
 ![](https://discord.com/api/guilds/984458237841637386/embed.png)
 
-| Discord: liledix4 | [YouTube](https://youtube.com/@liledix4) | [X/Twitter](https://x.com/liledix4) |
+| 💬 Discord: liledix4 | 🎵 [YouTube](https://youtube.com/@liledix4) | ❎ [X/Twitter](https://x.com/liledix4) |
 | :---------------: | :--------------------------------------: | :---------------------------------: |
 
 | Where you can go                                                              | Note                                                |
