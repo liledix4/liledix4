@@ -41,10 +41,10 @@
     - Love them! ❤️
     - The emoji you'll notice me using most often is the upside-down face. 🙃
 - **Languages**
-    - English is not my mother tongue (I know it at B2 level).
+    - English is not my mother tongue (I know it at [B2 level](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages)).
     - I won't say what my mother tongue is. I don't wish to be associated with it until I learn more languages – this is my goal.
     - As of 2024, I plan to learn Dutch and Spanish.
-    - Language is nothing more than a tool to convey the same thoughts by means more familiar to people who speak the language for various reasons, including cultural ones. Pardon me, but everyone counts 2+2 the same. If you put deep meaning into your language to the point where it becomes an ideological tool (i.e. you become annoyed to hear specific languages – "Ew, English") – you and I are on different sides of the language vision. The vast majority of people don't put special meaning into the language they speak. If you're not one of those people, I'll have a hard time communicating with you, because I prefer to see the world more broadly and with open mind. It's great that you put your heart into your language to the extent that you're interested in its history and its development, but that doesn't mean you have the right to be prejudiced against other languages.
+    - Language is nothing more than a tool to convey the same thoughts by means more familiar to people who speak the language for various reasons, including cultural ones. Pardon me, but everyone counts 2+2 the same. If you put deep meaning into your language to the point where it becomes an ideological tool (i.e. you become annoyed to hear specific languages – "Ew, English / French / Dutch / Spanish / Chinese / Japanese / Ukrainian / Russian") – you and I are on different sides of the language vision. The vast majority of people don't put special meaning into the language they speak. If you're not one of those people, I'll have a hard time communicating with you, because I prefer to see the world more broadly and with open mind. It's great that you put your heart into your language to the extent that you're interested in its history and its development, but that doesn't mean you have the right to be prejudiced against other languages.
 - **LGBT+** 🏳️‍🌈
     - [Straight ally](https://en.wikipedia.org/wiki/Straight_ally).
 - **Nationality**
