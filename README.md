@@ -170,6 +170,13 @@
 ****
 </details>
 
+<details><summary>🌐 <b>Social media</b></summary>
+
+- Social media is not for me. No matter how hard I try to do something, it often doesn't get attention. It's hard for me to get a feel for what people need. So I've given up and just do what I'm interested in, sharing things from time to time without expecting feedback. Maybe that sounds sad. But even if something goes viral or if someone helps make it more viral, it doesn't mean people will actually follow my content updates after that.
+- Additionally, I have too little feelings about social media posts to comment on them. Usually I find nothing relatable. Well, that's just me.
+****
+</details>
+
 <details><summary><i>Why so serious?</i></summary>
 
 - Is it just me or is it getting crazier out there?
