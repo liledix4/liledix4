@@ -22,7 +22,25 @@
 | Where you can go                                                              | Note                                                |
 | :---------------------------------------------------------------------------- | :-------------------------------------------------- |
 | ✅ **[2do](https://github.com/users/liledix4/projects/15)**                      | Public to-do list                                   |
-| ⭐ **[My most worthy repositories](https://github.com/stars/liledix4/lists/my)** | List where I add the coolest repositories I created |
+| ⭐ **[My most worthy repositories](https://github.com/stars/liledix4/lists/my)** | List where I add the coolest repositories I'm maintaining |
+
+## Experience
+
+It's difficult to explain.
+
+I never call myself professional. But also the word "amateur" is considered negative unfairly.
+
+I know some HTML, CSS, JavaScript, Node.js, Gulp – far from feeling confident, but enough to make some apps I personally find useful or fun.
+
+I'm experimenting with absolutely anything my potato PC can handle: sometimes it's PowerShell, Python, TypeScript, and so on.
+
+I could add some logos here at the later updates, I don't bother too much with the eye-catching formatting.
+
+## GitHub activities
+
+- Some time ago, I've removed all stars and follows. However, I can start from scratch, follow anyone, and star any interesting repository.
+    - Well, as long as this is transparent. I see no point in follows and stars if the lists are private by default. Dear GitHub, you better don't follow the paths of YouTube and X/Twitter.
+- I'm not contributing to the repositories of other people yet, because I don't have enough experience. But exclusions are possible.
 
 ## Fun facts
 
