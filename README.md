@@ -5,6 +5,10 @@
 >
 > You can help me with contributions if you DM me on Discord! Thank you.
 
+![](https://github.com/user-attachments/assets/73b1e05d-4b4a-418d-a8ed-c727f02ec5be)
+
+*<center><sup>My banner. Profile picture by [J. Rivers](https://www.youtube.com/@J.Rivers). Background by [Gordon Johnson from Pixabay.com](https://pixabay.com/vectors/colorful-prismatic-chromatic-1312779/). Edited by me.</sup></center>*
+
 # [liledix4.github.io](https://liledix4.github.io)
 
 ![](https://discord.com/api/guilds/984458237841637386/embed.png)
