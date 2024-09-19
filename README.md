@@ -12,8 +12,8 @@
 
 | Where you can go                                                              | Note                                                |
 | :---------------------------------------------------------------------------- | :-------------------------------------------------- |
-| **[2do](https://github.com/users/liledix4/projects/15)**                      | Public to-do list                                   |
-| **[My most worthy repositories](https://github.com/stars/liledix4/lists/my)** | List where I add the coolest repositories I created |
+| ✅ **[2do](https://github.com/users/liledix4/projects/15)**                      | Public to-do list                                   |
+| ⭐ **[My most worthy repositories](https://github.com/stars/liledix4/lists/my)** | List where I add the coolest repositories I created |
 
 ## Fun facts
 
