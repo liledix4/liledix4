@@ -1,7 +1,9 @@
 > [!WARNING]
 > **WORK-IN-PROGRESS ALERT!!!**
 >
-> A lot of things publicly available on my GitHub account and related organizations are UNFINISHED! You can help me with contributions if you DM me on Discord! Thank you.
+> A lot of things publicly available on my GitHub account and related organizations are UNFINISHED!
+>
+> You can help me with contributions if you DM me on Discord! Thank you.
 
 # [liledix4.github.io](https://liledix4.github.io)
 
