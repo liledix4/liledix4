@@ -82,6 +82,8 @@
 <details><summary>🏳️‍🌈 <b>LGBT+</b></summary>
 
 - [Straight ally](https://en.wikipedia.org/wiki/Straight_ally).
+- You guys are genuinely way too obsessed with the whole idea. It's all very simple. Have whatever relationship you want amongst yourselves. It shouldn't matter to anyone. No one should tell you how you should live. However, in my opinion, sexual preferences are too intimate a subject to be publicized, in general, and it doesn't matter if it's about LGBT+ or not.
+- In the current environment, I realize it's important to talk about it openly, but later on people will have to find ways to bring this topic back to intimacy. And I'm not sure that the problem will ever go away, because the conservative view of things is not going anywhere, it's not possible to "defeat" it, you have to find ways to coexist with it. The biggest problem is the aggressive imposition of viewpoints, the unwillingness to listen to other parties, and the failure to accept compromise. This applies to all sides of the discussion. I apologize for being so blunt.
 ****
 </details>
 
