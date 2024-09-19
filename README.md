@@ -63,6 +63,17 @@
 ****
 </details>
 
+<details><summary>📦 <b>Crash Bandicoot</b></summary>
+
+- Whether you hate it or not, my most favorite classic platformer game is **[Crash Bandicoot: The Wrath of Cortex](https://en.wikipedia.org/wiki/Crash_Bandicoot:_The_Wrath_of_Cortex)** *(2001)*. It's overhated, I enjoy it enormously. However, I love the original PlayStation 1 trilogy a lot (**[original game](https://en.wikipedia.org/wiki/Crash_Bandicoot_(video_game))**, **[Cortex Strikes Back](https://en.wikipedia.org/wiki/Crash_Bandicoot_2:_Cortex_Strikes_Back)**, **[Warped](https://en.wikipedia.org/wiki/Crash_Bandicoot:_Warped)**), and **[Crash Bandicoot N. Sane Trilogy](https://en.wikipedia.org/wiki/Crash_Bandicoot_N._Sane_Trilogy)** improved things n. sanely!
+- **[Crash Team Racing Nitro-Fueled](https://en.wikipedia.org/wiki/Crash_Team_Racing_Nitro-Fueled)** is FANTASTIC! Original **[Crash Team Racing](https://en.wikipedia.org/wiki/Crash_Team_Racing)** is still quite fun though, it aged like a good wine.
+- **[Crash Bandicoot 4: It's About Time](https://en.wikipedia.org/wiki/Crash_Bandicoot_4:_It's_About_Time)** is... eh, too long and too difficult. Besides, art style is not my favorite. The game is good, don't get me wrong, but I feel weird playing it. I'd prefer more DLCs for N. Sane Trilogy instead (bigger than Future Tense or Stormy Ascent).
+- **[Crash Twinsanity](https://en.wikipedia.org/wiki/Crash_Twinsanity)** isn't quite fun, to be honest. But at the time, it was a step to the right direction.
+- **[Crash of the Titans](https://en.wikipedia.org/wiki/Crash_of_the_Titans)** and **[Mind Over Mutant](https://en.wikipedia.org/wiki/Crash:_Mind_over_Mutant)** – I don't understand why these even exist. It's like "I don't care that it's Crash Bandicoot, I'll do my own thing and I'll bring some big beasts just because I want to". What about Crash himself though?!
+- **[Crash Team Rumble](https://en.wikipedia.org/wiki/Crash_Team_Rumble)** – no feelings at all. Just a party game. I generally feel nothing about those. Better than **[Crash Bash](https://en.wikipedia.org/wiki/Crash_Bash)** though, which is a big load of meh.
+****
+</details>
+
 <details><summary>🔷 <b>Doctor Who</b></summary>
 
 - You won't believe it. I've watched ALL classic episodes of Doctor Who! All 26 seasons! Even before (almost) all episodes were released on BBC iPlayer as a part of 60th anniversary celebration!
@@ -170,7 +181,7 @@
 ****
 </details>
 
-<details><summary>🌐 <b>Social media</b></summary>
+<details><summary>💬 <b>Social media</b></summary>
 
 - Social media is not for me. No matter how hard I try to do something, it often doesn't get attention. It's hard for me to get a feel for what people need. So I've given up and just do what I'm interested in, sharing things from time to time without expecting feedback. Maybe that sounds sad. But even if something goes viral or if someone helps make it more viral, it doesn't mean people will actually follow my content updates after that.
 - Additionally, I have too little feelings about social media posts to comment on them. Usually I find nothing relatable. Well, that's just me.
