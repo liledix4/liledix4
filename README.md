@@ -33,6 +33,7 @@
 <details><summary>⏱️ <b>Age</b></summary>
 
 - I'm mid-20s. I saw early 2000s, lol.
+- However, I'm not as old as you may think. I'm pretty much zoomer-brained, and that's NOT a bad thing at all!
 ****
 </details>
 
