@@ -31,12 +31,27 @@
     - I'm autistic, but it's not medically proven. I have conspicuous autistic behavioral traits and have had them since early childhood, almost from birth. It's both a gift and a curse. It's both a beneficial trait and something that has always dragged me down.
     - A lot of people don't realize this or even know how autism manifests, so they just see the oddities but can't explain them.
     - Is it a disease? More like a brain defect that can't be fixed. It'll stay with me for the rest of my life.
-- **Emojis**
-    - Love them!
-- **LGBT+**
+- **Copyright**
+    - I'm on the [copyleft](https://en.wikipedia.org/wiki/Copyleft) side.
+    - Whether you hate it or not, I love GNU AGPL. However, other favorite flavors of licenses are GNU LGPL and Apache. It depends on how valuable the project is to me personally.
+    - I also love Creative Commons, normally I use BY variant (earlier it was BY-NC-SA, but it's too restrictive).
+    - See [LICENSE](https://github.com/liledix4/LICENSE) repository for more info.
+    - Copyright must be changed. This tool is too easy for rich people to get even more profits with no additional effort.
+- **Emojis** 🙃
+    - Love them! ❤️
+    - The emoji you'll notice me using most often is the upside-down face. 🙃
+- **Languages**
+    - English is not my mother tongue (I know it at B2 level).
+    - I won't say what my mother tongue is. I don't wish to be associated with it until I learn more languages – this is my goal.
+    - As of 2024, I plan to learn Dutch and Spanish.
+    - Language is nothing more than a tool to convey the same thoughts by means more familiar to people who speak the language for various reasons, including cultural ones. Pardon me, but everyone counts 2+2 the same. If you put deep meaning into your language to the point where it becomes an ideological tool (i.e. you become annoyed to hear specific languages – "Ew, English") – you and I are on different sides of the language vision. The vast majority of people don't put special meaning into the language they speak. If you're not one of those people, I'll have a hard time communicating with you, because I prefer to see the world more broadly and with open mind. It's great that you put your heart into your language to the extent that you're interested in its history and its development, but that doesn't mean you have the right to be prejudiced against other languages.
+- **LGBT+** 🏳️‍🌈
     - [Straight ally](https://en.wikipedia.org/wiki/Straight_ally).
 - **Nationality**
     - Doesn't matter. I'm a [cosmopolitan](https://en.wikipedia.org/wiki/Cosmopolitanism).
+- **Open-source, FOSS/FLOSS, and proprietary**
+    - I support FLOSS wholeheartedly.
+    - I despise proprietary software, but I understand why it exists.
 - **Plum jam**
     - My beloved! 😍
 - **Political views**
@@ -46,6 +61,8 @@
     - To conclude this sub-list, I don't talk about politics openly. I am in a censorship situation in real life.
 - **Pragmatism**
     - I'm a strict pragmatist. If something doesn't make sense from a practical standpoint, I reject it sharply. Even if something is very valuable to me, I am in internal conflict.
+- **Privacy**
+    - I'm a staunch advocate of privacy, both online and offline.
 - **Religion**
     - I believe in myself. 🙃
     - Okay, okay, jokes aside (however it's true, so it counts as a post-irony). I'm a deist. In conversations, it may sound like I'm an atheist, but in fact, I find it funny to think of the gods (plural, yes) as the entities who are not necessarily attached to the Earth, but more like they're somewhere across the whole wide universe. You never know.
