@@ -92,6 +92,7 @@
 <details><summary>✉️ <b>"Double-tick Syndrome", or "did read without responding"</b></summary>
 
 - You guys are obsessed with the whole idea that if someone reads your messages, then they're obliged to respond. F-ing no! This is a bs logic. That's why I like Discord and numerous other platforms that at least provide the feature of disabling reports about the reading status. Double ticks violate the privacy, no matter what you think.
+- This article helps to understand my views: https://www.dawn.com/news/1144457
 ****
 </details>
 
