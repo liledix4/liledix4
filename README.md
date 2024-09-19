@@ -30,50 +30,91 @@
 
 *If you'd like to see more info here, [DM me](#liledix4githubio) or [create an issue](https://github.com/liledix4/liledix4/issues/new).*
 
-- **Age**
-    - I'm mid-20s. I saw early 2000s, lol.
-- **AI** 🤖
-    - I have a complicated relationship with it. I understand the position "AI is theft" and I'm on the same side. But the damage is done.
-    - It's naïve to not use the tools that already became a part of our modern lives.
-    - However, I'm not making my own contributions to AI, I'm not interested in it. Don't even suggest.
-- **Autism** 🧠
-    - I'm autistic, but it's not medically proven. I have conspicuous autistic behavioral traits and have had them since early childhood, almost from birth. It's both a gift and a curse. It's both a beneficial trait and something that has always dragged me down.
-    - A lot of people don't realize this or even know how autism manifests, so they just see the oddities but can't explain them.
-    - Is it a disease? More like a brain defect that can't be fixed. It'll stay with me for the rest of my life.
-- **Copyright**
-    - I'm on the [copyleft](https://en.wikipedia.org/wiki/Copyleft) side.
-    - Whether you hate it or not, I love GNU AGPL. However, other favorite flavors of licenses are GNU LGPL and Apache. It depends on how valuable the project is to me personally.
-    - I also love Creative Commons, normally I use BY variant (earlier it was BY-NC-SA, but it's too restrictive).
-    - See [LICENSE](https://github.com/liledix4/LICENSE) repository for more info.
-    - Copyright must be changed. This tool is too easy for rich people to get even more profits with no additional effort.
-- **Emojis** 🙃
-    - Love them! ❤️
-    - The emoji you'll notice me using most often is the upside-down face. 🙃
-- **Languages**
-    - English is not my mother tongue (I know it at [B2 level](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages)).
-    - I won't say what my mother tongue is. I don't wish to be associated with it until I learn more languages – this is my goal.
-    - As of 2024, I plan to learn Dutch and Spanish.
-    - Language is nothing more than a tool to convey the same thoughts by means more familiar to people who speak the language for various reasons, including cultural ones. Pardon me, but everyone counts 2+2 the same. If you put deep meaning into your language to the point where it becomes an ideological tool (i.e. you become annoyed to hear specific languages – "Ew, English / French / Dutch / Spanish / Chinese / Japanese / Ukrainian / Russian") – you and I are on different sides of the language vision. The vast majority of people don't put special meaning into the language they speak. If you're not one of those people, I'll have a hard time communicating with you, because I prefer to see the world more broadly and with open mind. It's great that you put your heart into your language to the extent that you're interested in its history and its development, but that doesn't mean you have the right to be prejudiced against other languages.
-- **LGBT+** 🏳️‍🌈
-    - [Straight ally](https://en.wikipedia.org/wiki/Straight_ally).
-- **Nationality**
-    - Doesn't matter. I'm a [cosmopolitan](https://en.wikipedia.org/wiki/Cosmopolitanism).
-- **Open-source, FOSS/FLOSS, and proprietary**
-    - I support FLOSS wholeheartedly.
-    - I despise proprietary software, but I understand why it exists.
-- **Plum jam**
-    - My beloved! 😍
-- **Political views**
-    - I'm a staunch centrist. Depending on the cases, I can lean to the left or to the right.
-    - However, I don't think that it's correct to use the left-right political spectrum in the first place, because many situations are complex and this spectrum oversimplifies views, causing one to ignore important aspects.
-    - I'll never call myself a liberal or libertarian, by the way, because I never am: for example, I have liberal views, but I also have views contrary to liberalism.
-    - To conclude this sub-list, I don't talk about politics openly. I am in a censorship situation in real life.
-- **Pragmatism**
-    - I'm a strict pragmatist. If something doesn't make sense from a practical standpoint, I reject it sharply. Even if something is very valuable to me, I am in internal conflict.
-- **Privacy**
-    - I'm a staunch advocate of privacy, both online and offline.
-- **Religion**
-    - I believe in myself. 🙃
-    - Okay, okay, jokes aside (however it's true, so it counts as a post-irony). I'm a deist. In conversations, it may sound like I'm an atheist, but in fact, I find it funny to think of the gods (plural, yes) as the entities who are not necessarily attached to the Earth, but more like they're somewhere across the whole wide universe. You never know.
-    - By the way, Bible means nothing, gods don't care about worshipping, and name any typical aspect of the religions, I'll tell you that deism is not about that. You can tell me various quotes from your religion and ask me if this deism of mine can portray the gods in detail in such a way that good and bad traits are noticed in them as in every human individual – I'll tell you that it doesn't matter. Yeah, sure, I can make up stories that people will want to believe too (after all, I'm a bit of a writer), but since when do people attribute human traits to gods without knowing the veracity reliably? I apologize a million times, or however many times you want, but this goes against my strong stance of pragmatism.
-    - But my views on other religions don't prevent me from respecting people who share those religions. It's just one of the many aspects of their lives, and I love those people for the other things. I never get into arguments about religions, as it is impossible to change someone else's views – religion is the kind of thing that tends to be reinforced from an early age. I apologize if this sounds harsh, but think back to when you started getting into religion. You can't completely say that a person can choose a religion freely. It is part of a person's culture.
+<details><summary><b>Age</b></summary>
+
+- I'm mid-20s. I saw early 2000s, lol.
+</details>
+
+<details><summary><b>AI</b> 🤖</summary>
+
+- I have a complicated relationship with it. I understand the position "AI is theft" and I'm on the same side. But the damage is done.
+- It's naïve to not use the tools that already became a part of our modern lives.
+- However, I'm not making my own contributions to AI, I'm not interested in it. Don't even suggest.
+</details>
+
+<details><summary><b>Autism</b> 🧠</summary>
+
+- I'm autistic, but it's not medically proven. I have conspicuous autistic behavioral traits and have had them since early childhood, almost from birth. It's both a gift and a curse. It's both a beneficial trait and something that has always dragged me down.
+- A lot of people don't realize this or even know how autism manifests, so they just see the oddities but can't explain them.
+- Is it a disease? More like a brain defect that can't be fixed. It'll stay with me for the rest of my life.
+</details>
+
+<details><summary><b>Copyright</b></summary>
+
+- I'm on the [copyleft](https://en.wikipedia.org/wiki/Copyleft) side.
+- Whether you hate it or not, I love GNU AGPL. However, other favorite flavors of licenses are GNU LGPL and Apache. It depends on how valuable the project is to me personally.
+- I also love Creative Commons, normally I use BY variant (earlier it was BY-NC-SA, but it's too restrictive).
+- See [LICENSE](https://github.com/liledix4/LICENSE) repository for more info.
+- Copyright must be changed. This tool is too easy for rich people to get even more profits with no additional effort.
+</details>
+
+<details><summary><b>Emojis</b> 🙃</summary>
+
+- Love them! ❤️
+- The emoji you'll notice me using most often is the upside-down face. 🙃
+</details>
+
+<details><summary><b>Languages</b></summary>
+
+- English is not my mother tongue (I know it at [B2 level](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages)).
+- I won't say what my mother tongue is. I don't wish to be associated with it until I learn more languages – this is my goal.
+- As of 2024, I plan to learn Dutch and Spanish.
+- Language is nothing more than a tool to convey the same thoughts by means more familiar to people who speak the language for various reasons, including cultural ones. Pardon me, but everyone counts 2+2 the same. If you put deep meaning into your language to the point where it becomes an ideological tool (i.e. you become annoyed to hear specific languages – "Ew, English / French / Dutch / Spanish / Chinese / Japanese / Ukrainian / Russian") – you and I are on different sides of the language vision. The vast majority of people don't put special meaning into the language they speak. If you're not one of those people, I'll have a hard time communicating with you, because I prefer to see the world more broadly and with open mind. It's great that you put your heart into your language to the extent that you're interested in its history and its development, but that doesn't mean you have the right to be prejudiced against other languages.
+</details>
+
+<details><summary><b>LGBT+</b> 🏳️‍🌈</summary>
+
+- [Straight ally](https://en.wikipedia.org/wiki/Straight_ally).
+</details>
+
+<details><summary><b>Nationality</b></summary>
+
+- Doesn't matter. I'm a [cosmopolitan](https://en.wikipedia.org/wiki/Cosmopolitanism).
+</details>
+
+<details><summary><b>Open-source, FOSS/FLOSS, and proprietary</b></summary>
+
+- I support FLOSS wholeheartedly.
+- I despise proprietary software, but I understand why it exists.
+</details>
+
+<details><summary><b>Plum jam</b></summary>
+
+- My beloved! 😍
+</details>
+
+<details><summary><b>Political views</b></summary>
+
+- I'm a staunch centrist. Depending on the cases, I can lean to the left or to the right.
+- However, I don't think that it's correct to use the left-right political spectrum in the first place, because many situations are complex and this spectrum oversimplifies views, causing one to ignore important aspects.
+- I'll never call myself a liberal or libertarian, by the way, because I never am: for example, I have liberal views, but I also have views contrary to liberalism.
+- To conclude this sub-list, I don't talk about politics openly. I am in a censorship situation in real life.
+</details>
+
+<details><summary><b>Pragmatism</b></summary>
+
+- I'm a strict pragmatist. If something doesn't make sense from a practical standpoint, I reject it sharply. Even if something is very valuable to me, I am in internal conflict.
+</details>
+
+<details><summary><b>Privacy</b></summary>
+
+- I'm a staunch advocate of privacy, both online and offline.
+</details>
+
+<details><summary><b>Religion</b></summary>
+
+- I believe in myself. 🙃
+- Okay, okay, jokes aside (however it's true, so it counts as a post-irony). I'm a deist. In conversations, it may sound like I'm an atheist, but in fact, I find it funny to think of the gods (plural, yes) as the entities who are not necessarily attached to the Earth, but more like they're somewhere across the whole wide universe. You never know.
+- By the way, Bible means nothing, gods don't care about worshipping, and name any typical aspect of the religions, I'll tell you that deism is not about that. You can tell me various quotes from your religion and ask me if this deism of mine can portray the gods in detail in such a way that good and bad traits are noticed in them as in every human individual – I'll tell you that it doesn't matter. Yeah, sure, I can make up stories that people will want to believe too (after all, I'm a bit of a writer), but since when do people attribute human traits to gods without knowing the veracity reliably? I apologize a million times, or however many times you want, but this goes against my strong stance of pragmatism.
+- But my views on other religions don't prevent me from respecting people who share those religions. It's just one of the many aspects of their lives, and I love those people for the other things. I never get into arguments about religions, as it is impossible to change someone else's views – religion is the kind of thing that tends to be reinforced from an early age. I apologize if this sounds harsh, but think back to when you started getting into religion. You can't completely say that a person can choose a religion freely. It is part of a person's culture.
+</details>
