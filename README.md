@@ -67,7 +67,7 @@
 
 - You won't believe it. I've watched ALL classic episodes of Doctor Who! All 26 seasons! Even before (almost) all episodes were released on BBC iPlayer as a part of 60th anniversary celebration!
 - My personal rating of the classic Doctors (1963-1989, 1996):
-    1. 6th Doctor (Colin Baker) – I'm extremely sorry, but I love his colorful bright coat, his clashing colors overall in his clothes, his arrogant mannerisms. I just wish he was given more screen time and not all the behind-the-scenes bs. Big Finish audio dramas have helped this version of the Doctor really blossom, a lot of thanks to them, but I'm enjoying the on-screen appearances as well, can't lie. Twin Dilemma is a disastrous episode though.
+    1. 6th Doctor (Colin Baker) – I'm extremely sorry, but I love his multicolored patchwork coat, the clashing colors overall in his clothes, his arrogant mannerisms. I just wish he was given more screen time and not all the behind-the-scenes bs. Big Finish audio dramas have helped this version of the Doctor really blossom, a lot of thanks to them, but I'm enjoying the on-screen appearances as well, can't lie. Twin Dilemma is a disastrous episode though.
     2. 7th Doctor (Sylvester McCoy)
     3. 3rd Doctor (Jon Pertwee)
     4. 4th Doctor (Tom Baker)
