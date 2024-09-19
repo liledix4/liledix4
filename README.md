@@ -63,6 +63,32 @@
 ****
 </details>
 
+<details><summary>🔷 <b>Doctor Who</b></summary>
+
+- You won't believe it. I've watched ALL classic episodes of Doctor Who! All 26 seasons! Even before (almost) all episodes were released on BBC iPlayer as a part of 60th anniversary celebration!
+- My personal rating of the classic Doctors (1963-1989, 1996):
+    1. 6th Doctor (Colin Baker)
+    2. 7th Doctor (Sylvester McCoy)
+    3. 3rd Doctor (Jon Pertwee)
+    4. 4th Doctor (Tom Baker)
+    5. 2nd Doctor (Patrick Troughton)
+    6. 1st Doctor (William Hartnell / Richard Hurndall)
+    7. 8th Doctor (Paul McGann)
+    8. 5th Doctor (Peter Davison)
+- My personal rating of the modern Doctors (since 2005):
+    1. 12th Doctor (Peter Capaldi)
+    2. 11th Doctor (Matt Smith)
+    3. 10th Doctor (David Tennant)
+    4. 15th Doctor (Ncuti Gatwa)
+    5. 9th Doctor (Christopher Eccleston)
+    6. 14th Doctor (David Tennant)
+    7. Fugitive Doctor (Jo Martin)
+    8. 13th Doctor (Jodie Whittaker)
+    9. War Doctor (John Hurt)
+- I like all Doctors for various reasons. There are no Doctors I don't like, even if they're low in my lists.
+****
+</details>
+
 <details><summary>🙃 <b>Emojis</b></summary>
 
 - Love them! ❤️
