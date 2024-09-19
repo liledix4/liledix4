@@ -136,3 +136,9 @@
 - Despite all of this, I'm pretty much Christian-coded. Just a part of my culture, I don't choose it.
 ****
 </details>
+
+<details><summary><i>Why so serious?</i></summary>
+
+- Is it just me or is it getting crazier out there?
+****
+</details>
