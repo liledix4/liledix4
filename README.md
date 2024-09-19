@@ -21,14 +21,20 @@
 
 *If you'd like to see more info here, [DM me](#liledix4githubio) or [create an issue](https://github.com/liledix4/liledix4/issues/new).*
 
-- **AI**
+- **Age**
+    - I'm mid-20s. I saw early 2000s, lol.
+- **AI** 🤖
     - I have a complicated relationship with it. I understand the position "AI is theft" and I'm on the same side. But the damage is done.
     - It's naïve to not use the tools that already became a part of our modern lives.
     - However, I'm not making my own contributions to AI, I'm not interested in it. Don't even suggest.
-- **Autism**
+- **Autism** 🧠
     - I'm autistic, but it's not medically proven. I have conspicuous autistic behavioral traits and have had them since early childhood, almost from birth. It's both a gift and a curse. It's both a beneficial trait and something that has always dragged me down.
     - A lot of people don't realize this or even know how autism manifests, so they just see the oddities but can't explain them.
     - Is it a disease? More like a brain defect that can't be fixed. It'll stay with me for the rest of my life.
+- **Emojis**
+    - Love them!
+- **Nationality**
+    - Doesn't matter. I'm a [cosmopolitan](https://en.wikipedia.org/wiki/Cosmopolitanism).
 - **Plum jam**
     - My beloved! 😍
 - **Political views**
