@@ -1,9 +1,9 @@
-# [liledix4.github.io](https://liledix4.github.io)
-
 > [!WARNING]
 > **WORK-IN-PROGRESS ALERT!!!**
 >
 > A lot of things publicly available on my GitHub account are UNFINISHED! You can help me with contributions if you DM me on Discord! Thank you.
+
+# [liledix4.github.io](https://liledix4.github.io)
 
 ![](https://discord.com/api/guilds/984458237841637386/embed.png)
 
@@ -17,7 +17,9 @@
 
 ## Fun facts
 
-*In alphabetical order*
+*In alphabetical order.*
+
+*If you'd like to see more info here, [DM me](#liledix4githubio) or [create an issue](https://github.com/liledix4/liledix4/issues).*
 
 - **AI**
     - I have a complicated relationship with it. I understand the position "AI is theft" and I'm on the same side. But the damage is done.
