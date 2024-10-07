@@ -46,10 +46,6 @@ I could add some logos here at the later updates, I don't bother too much with t
 
 ## Projects I prioritize
 
-🔄️ _Latest update: **7 October 2024**_
-
-You can see the full list of prioritized projects here: https://github.com/stars/liledix4/lists/4-prioritized-projects
-
 1. **Website for Bombs vs. Sleepwalkers** – it's more important than BvS itself, because it introduces the project to the general public.
    - [BvSGame / **bvsgame.github.io**](https://github.com/BvSGame/bvsgame.github.io)
    - [BvSGame / **BvS-PHPWebsite**](https://github.com/BvSGame/BvS-PHPWebsite)
@@ -70,7 +66,13 @@ You can see the full list of prioritized projects here: https://github.com/stars
 5. [liledix4 / **Bookmarker**](https://github.com/liledix4/Bookmarker) – privacy-friendly way of saving online content locally and independently.
 6. [liledix4 / **Music**](https://github.com/liledix4/Music) – an online music player containing all my music. Customizable to fit the needs of any musician.
 
-There are many other projects, but they're less important.
+----
+
+🔄️ Latest update: **7 October 2024**
+
+You can see the full list of prioritized projects here: https://github.com/stars/liledix4/lists/4-prioritized-projects
+
+There are many other projects, but they're less important. Find them in other lists here: https://github.com/liledix4?tab=stars
 
 ## Fun facts
 
