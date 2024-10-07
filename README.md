@@ -66,7 +66,7 @@ I could add some logos here at the later updates, I don't bother too much with t
 5. [liledix4 / **Bookmarker**](https://github.com/liledix4/Bookmarker) – privacy-friendly way of saving online content locally and independently.
 6. [liledix4 / **Music**](https://github.com/liledix4/Music) – an online music player containing all my music. Customizable to fit the needs of any musician.
 
-----
+🏁 End of the list!
 
 🔄️ Latest update: **7 October 2024**
 
