@@ -53,7 +53,7 @@ You can see the full list of prioritized projects here: https://github.com/stars
 1. **Website for Bombs vs. Sleepwalkers** – it's more important than BvS itself, because it introduces the project to the general public.
    - [BvSGame / **bvsgame.github.io**](https://github.com/BvSGame/bvsgame.github.io)
    - [BvSGame / **BvS-PHPWebsite**](https://github.com/BvSGame/BvS-PHPWebsite)
-2. **Bombs vs. Sleepwalkers** – a project that brings out all my creativity.
+2. **Bombs vs. Sleepwalkers** – a project that brings out all my creativity. If you wonder why there are so many versions: various game engines are being tested. Final decision isn't made yet.
    - [BvSGame / **BvS-Bevy**](https://github.com/BvSGame/BvS-Bevy)
    - [BvSGame / **BvS-Godot**](https://github.com/BvSGame/BvS-Godot)
    - [BvSGame / **BvS-HTML**](https://github.com/BvSGame/BvS-HTML)
@@ -68,7 +68,7 @@ You can see the full list of prioritized projects here: https://github.com/stars
    - [DDLCNH / **DDLCNH**](https://github.com/DDLCNH/DDLCNH)
    - [DDLCNH / **Docs**](https://github.com/DDLCNH/Docs) _(private)_
 5. [liledix4 / **Bookmarker**](https://github.com/liledix4/Bookmarker) – privacy-friendly way of saving online content locally and independently.
-6.  [liledix4 / **Music**](https://github.com/liledix4/Music) – an online music player containing all my music. Customizable to fit the needs of any musician.
+6. [liledix4 / **Music**](https://github.com/liledix4/Music) – an online music player containing all my music. Customizable to fit the needs of any musician.
 
 There are many other projects, but they're less important.
 
