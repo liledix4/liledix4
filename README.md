@@ -44,6 +44,33 @@ I could add some logos here at the later updates, I don't bother too much with t
     - Well, as long as this is transparent. I see no point in follows and stars if the lists are private by default. Dear GitHub, you better don't follow the paths of YouTube and X/Twitter.
 - I'm not contributing to the repositories of other people yet, because I don't have enough experience. But exclusions are possible.
 
+## Projects I prioritize
+
+🔄️ _Latest update: **7 October 2024**_
+
+You can see the full list of prioritized projects here: https://github.com/stars/liledix4/lists/4-prioritized-projects
+
+1. **BvS Website** – it's more important than BvS itself, because it introduces the project to the general public.
+   - [BvSGame / **bvsgame.github.io**](https://github.com/BvSGame/bvsgame.github.io)
+   - [BvSGame / **BvS-PHPWebsite**](https://github.com/BvSGame/BvS-PHPWebsite)
+2. **BvS** – a project that brings out all my creativity.
+   - [BvSGame / **BvS-Bevy**](https://github.com/BvSGame/BvS-Bevy)
+   - [BvSGame / **BvS-Godot**](https://github.com/BvSGame/BvS-Godot)
+   - [BvSGame / **BvS-HTML**](https://github.com/BvSGame/BvS-HTML)
+   - [BvSGame / **BvS-Unity**](https://github.com/BvSGame/BvS-Unity)
+   - [BvSGame / **Docs**](https://github.com/BvSGame/Docs) _(private)_
+   - [BvSGame / **Scripts**](https://github.com/BvSGame/Scripts)
+3. **[Main YouTube channel](https://youtube.com/@liledix4) / Music production / Video production** – things I'm best known for.
+   - [liledix4 / **MusicProduction**](https://github.com/liledix4/MusicProduction)
+   - [liledix4 / **VideoProduction**](https://github.com/liledix4/VideoProduction)
+4. **Doki Doki Literature Club! New Heading**
+   - [DDLCNH / **ddlcnh.github.io**](https://github.com/DDLCNH/ddlcnh.github.io)
+   - [DDLCNH / **DDLCNH**](https://github.com/DDLCNH/DDLCNH)
+   - [DDLCNH / **Docs**](https://github.com/DDLCNH/Docs) _(private)_
+5. [liledix4 / **Bookmarker**](https://github.com/liledix4/Bookmarker)
+   - Privacy-friendly way of saving online content locally and independently.
+6.  [liledix4 / **Music**](https://github.com/liledix4/Music)
+
 ## Fun facts
 
 *In alphabetical order.*
