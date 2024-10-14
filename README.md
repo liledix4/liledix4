@@ -12,19 +12,14 @@
 *<sup>My banner. Profile picture by [J. Rivers](https://www.youtube.com/@J.Rivers). Background by [Gordon Johnson from Pixabay.com](https://pixabay.com/vectors/colorful-prismatic-chromatic-1312779/). Edited by me.</sup>*
 
 **Musician ︱ Writer ︱ Webdev ︱ Wannabe gamedev ︱ Video editor ︱ Unprofessional ︱ Fan of many things**
-</div>
 
-# [liledix4.github.io](https://liledix4.github.io)
+| 🌐 [liledix4.github.io](https://liledix4.github.io) | 💬 Discord: liledix4 | 🎵 [YouTube](https://youtube.com/@liledix4) | ❎ [X/Twitter](https://x.com/liledix4) |
+| :---------------: | :---------------: | :--------------------------------------: | :---------------------------------: |
+
+✅ **[2do: my public to-do list is HERE!](https://github.com/users/liledix4/projects/15)**
 
 ![](https://discord.com/api/guilds/984458237841637386/embed.png)
-
-| 💬 Discord: liledix4 | 🎵 [YouTube](https://youtube.com/@liledix4) | ❎ [X/Twitter](https://x.com/liledix4) |
-| :---------------: | :--------------------------------------: | :---------------------------------: |
-
-| Where you can go                                                              | Note                                                |
-| :---------------------------------------------------------------------------- | :-------------------------------------------------- |
-| ✅ **[2do](https://github.com/users/liledix4/projects/15)**                      | Public to-do list                                   |
-| ⭐ **[My most worthy repositories](https://github.com/stars/liledix4/lists/my)** | List where I add the coolest repositories I'm maintaining |
+</div>
 
 ## Projects I prioritize
 
