@@ -18,6 +18,8 @@
 
 ✅ **[2do: my public to-do list is HERE!](https://github.com/users/liledix4/projects/15)**
 
+💬 [liledix4 Says](https://github.com/liledix4/Says) *(a personal blog)*
+
 ![](https://discord.com/api/guilds/984458237841637386/embed.png)
 </div>
 
