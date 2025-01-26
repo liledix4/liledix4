@@ -1,9 +1,11 @@
 > [!WARNING]
-> **WORK-IN-PROGRESS ALERT!!!**
+> **WORK-IN-PROGRESS ALERT !!!**
 >
-> A lot of things publicly available on my GitHub account and related organizations are UNFINISHED!
+> A lot of things publicly available on my GitHub account are **UNFINISHED!**
 >
-> You can help me with contributions if you DM me on Discord! Thank you.
+> Same goes for my GitHub organizations, such as: *[Bombs vs. Sleepwalkers](https://github.com/BvSGame)*, *[DDLC New Heading](https://github.com/DDLCNH)* and *[lilFM](https://github.com/lilFM)*.
+>
+> You can help me with improvements and contributions if you DM me on Discord! Thank you.
 
 <div align="center">
 
@@ -11,19 +13,20 @@
 
 *<sup>My banner. Profile picture by [J. Rivers](https://www.youtube.com/@J.Rivers). Background by [Gordon Johnson from Pixabay.com](https://pixabay.com/vectors/colorful-prismatic-chromatic-1312779/). Edited by me.</sup>*
 
-**Musician ︱ Writer ︱ Webdev ︱ Wannabe gamedev ︱ Video editor ︱ Unprofessional ︱ Fan of many things**
+*Amateur:* **Musician ︱ Writer ︱ Webdev ︱ Wannabe gamedev ︱ Video editor**
 
-| 🌐 [liledix4.github.io](https://liledix4.github.io) | 💬 Discord: liledix4 | 🎵 [YouTube](https://youtube.com/@liledix4) | ❎ [X/Twitter](https://x.com/liledix4) |
-| :---------------: | :---------------: | :--------------------------------------: | :---------------------------------: |
+*Fan of many things. Particularly: **Doctor Who**, **Crash Bandicoot** and **Sonic the Hedgehog**. Formerly, a huge PvZ fan (since 2010).*
 
-✅ **[2do: my public to-do list is HERE!](https://github.com/users/liledix4/projects/15)**
-
-💬 **[liledix4 Says](https://github.com/liledix4/Says)** _(a personal blog)_
+| 🌐 [liledix4.github.io](https://liledix4.github.io) | 💬 Discord: liledix4 | 🎵 [YouTube](https://youtube.com/@liledix4) | 🦋 [Bluesky](https://bsky.app/profile/liledix4.github.io) |
+|-|-|-|-|
 
 ![](https://discord.com/api/guilds/984458237841637386/embed.png)
 </div>
 
 ## Projects I prioritize
+
+> [!WARNING]
+> To be deleted. This list is obsolete. Eventually it will be replaced with a special project called "Project Features". Stay tuned.
 
 1. **Website for Bombs vs. Sleepwalkers** – it's more important than BvS itself, because it introduces the project to the general public.
    - [BvSGame / **bvsgame.github.io**](https://github.com/BvSGame/bvsgame.github.io)
@@ -49,7 +52,7 @@
 
 🔄️ Latest update: **7 October 2024**
 
-You can see the full list of prioritized projects here: https://github.com/stars/liledix4/lists/4-prioritized-projects
+You can see the full list of prioritized projects here: (redacted)
 
 There are many other projects, but they're less important. Find them in other lists here: https://github.com/liledix4?tab=stars
 
