@@ -244,3 +244,9 @@ I could add some logos here at the later updates, I don't bother too much with t
 - Okay, jokes aside. I have a pragmatic brain. Sometimes I can allow myself some fun that isn't intended to have a logic or be practical/useful. But normally, either logic is built into things I do, or I reason logically even when I'm not trying to do so. Logic can unpredictably turn out to be fallacy, and that doesn't make things any easier, it pushes for further reflection. So anything illogical or not logical enough puts me into an unpleasant state in which I try (too) hard to either find the logic or make the thing logical.
 ****
 </details>
+
+## Trivia
+
+### Visitations of this GitHub page
+
+![](https://profile-counter.glitch.me/liledix4/count.svg)
