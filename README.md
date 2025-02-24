@@ -23,7 +23,7 @@
 ![](https://discord.com/api/guilds/984458237841637386/embed.png)
 </div>
 
-## Projects I prioritize
+## Projects I Prioritize
 
 > [!WARNING]
 > To be deleted. This list is obsolete. Eventually it will be replaced with a special project called "Project Features". Stay tuned.
@@ -68,13 +68,13 @@ I'm experimenting with absolutely anything my potato PC can handle: sometimes it
 
 I could add some logos here at the later updates, I don't bother too much with the eye-catching formatting.
 
-## GitHub activities
+## GitHub Activities
 
 - Some time ago, I've removed all stars and follows. However, I can start from scratch, follow anyone, and star any interesting repository.
     - Well, as long as this is transparent. I see no point in follows and stars if the lists are private by default. Dear GitHub, you better don't follow the paths of YouTube and X/Twitter.
 - I'm not contributing to the repositories of other people yet, because I don't have enough experience. But exclusions are possible.
 
-## Fun facts
+## Fun Facts
 
 *In alphabetical order.*
 
@@ -245,9 +245,9 @@ I could add some logos here at the later updates, I don't bother too much with t
 ****
 </details>
 
-## Statistics of this GitHub account
+## Statistics of This GitHub Account
 
-### Visitations of this README file
+### Visitations of This README File
 
 ![liledix4's Visitations](https://profile-counter.glitch.me/liledix4/count.svg)
 
