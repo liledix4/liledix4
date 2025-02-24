@@ -245,8 +245,20 @@ I could add some logos here at the later updates, I don't bother too much with t
 ****
 </details>
 
-## Trivia
+## Statistics of this GitHub account
 
-### Visitations of this GitHub page
+### Visitations of this README file
 
-![](https://profile-counter.glitch.me/liledix4/count.svg)
+![liledix4's Visitations](https://profile-counter.glitch.me/liledix4/count.svg)
+
+### GitHub Stats
+
+![liledix4's GitHub Stats](https://github-readme-stats.vercel.app/api?username=liledix4&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en)
+
+### Most Used Languages
+
+![liledix4's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=liledix4&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=2&border_radius=10&show_icons=true&locale=en)
+
+### Contribution Graph
+
+![liledix4's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=liledix4&theme=xcode&hide_border=true)
