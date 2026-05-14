@@ -249,7 +249,11 @@ I could add some logos here at the later updates, I don't bother too much with t
 
 ### Visitations of This README File
 
-![liledix4's Visitations](https://profile-counter.glitch.me/liledix4/count.svg)
+![liledix4's Visitations](https://profile-counter.deno.dev/liledix4/count.svg)
+
+### Test of newer GitHub ReadMe Stats
+
+![Here we go](./profile/stats.svg)
 
 ### GitHub Stats
 
