@@ -251,17 +251,13 @@ I could add some logos here at the later updates, I don't bother too much with t
 
 ![liledix4's Visitations](https://profile-counter.deno.dev/liledix4/count.svg)
 
-### Test of newer GitHub ReadMe Stats
-
-![Here we go](./profile/stats.svg)
-
 ### GitHub Stats
 
-![liledix4's GitHub Stats](https://github-readme-stats.vercel.app/api?username=liledix4&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en)
+![liledix4's GitHub Stats](./profile/stats.svg)
 
 ### Most Used Languages
 
-![liledix4's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=liledix4&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=2&border_radius=10&show_icons=true&locale=en)
+![liledix4's Most Used Languages](./profile/top-langs.svg)
 
 ### Contribution Graph
 
